@@ -1,4 +1,4 @@
-Program Description: for this PA, our main purpose is to let the players to have
+Program Description: for this project, our main purpose is to let the players to have
 the opportunity to play the actual 2048 game on the screen! With that being said,
 I mean we have created ways to make the tiles colorful, with each tile has its 
 accordingly number. We can also check the current score on the screen. Bascially,
